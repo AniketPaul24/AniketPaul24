@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AniketPaul24
-- 👀 I’m interested in Machine Learning an Artificial Intelligence.
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in Cybersecurity and Forensics.
+- 🌱 I’m currently learning Red Team Engagement
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
